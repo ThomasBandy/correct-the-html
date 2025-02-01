@@ -31,7 +31,7 @@ header {
     justify-content: center;
 }
 
-.main {
+main {
     display: flex;
     flex-direction: column;
     padding: 1rem;
@@ -39,7 +39,7 @@ header {
     color: white;
 }
 
-.post-article {
+article {
     display: flex;
     flex-direction: column;
 }
