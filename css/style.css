@@ -15,7 +15,7 @@ body {
     color: var(--bark-brown);
 }
 
-.header {
+header {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -54,7 +54,7 @@ body {
     padding: 0.5rem;
 }
 
-.footer {
+footer {
     display: flex;
     justify-content: center;
     align-items: center;
