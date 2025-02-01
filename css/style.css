@@ -50,9 +50,11 @@ header {
     margin: 0.25rem;
 }
 
-.paragraph {
+p {
     padding: 0.5rem;
 }
+
+
 
 footer {
     display: flex;
